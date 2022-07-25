@@ -10,6 +10,7 @@ pip install joblib==1.0.0 tqdm==4.56.0 numpy==1.20.0 pandas==1.2.2 progressbar2=
 
 Step1
 ```
+git clone https://github.com/mirishkarganesh/ganesh_w2v.git
 cd ganesh_w2v
 cd fairseq
 pip install -e .
