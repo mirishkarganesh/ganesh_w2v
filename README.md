@@ -35,6 +35,6 @@ python setup.py install
 ```
 Only for Inference follow Step4
 ```
-pip uninstall torch==1.12.0
+pip uninstall torch==1.12.0 protobuf==4.21.12
 pip install torch==1.10.0 fastapi pydub uvicorn python-multipart webrtcvad 
 ```
